@@ -6,6 +6,7 @@ A curated list of awesome things related to <a href='https://shadcn-svelte.com/'
 
 ## Libs and Components
 
+- [shadcn-svelte-blocks](https://shadcn-svelte.com/blocks) - Building Blocks for the Web. Beautifully designed. Copy and paste into your apps. Open source.
 - [svelte-changelog](https://github.com/WarningImHack3r/svelte-changelog) - A nice UI to stay up-to-date with Svelte releases
 - [TZEZAR's TABLE](https://github.com/tzezar/table) - Table component made in svelte
 
