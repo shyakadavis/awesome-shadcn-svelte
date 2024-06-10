@@ -23,3 +23,4 @@ A curated list of awesome things related to <a href='https://shadcn-svelte.com/'
 ## Boilerplates / Templates
 
 - [sveltekit-auth](https://github.com/delay/sveltekit-auth) - This is a Sveltekit Auth project. It utilizes Lucia for authentication, shadcn-svelte for ui elements, Drizzle for database connectivity and type safety, Lucide for icons, Zod and Superforms to handle forms and validation and Sveltekit.
+- [SvelteKit Template](https://github.com/ak4zh/sveltekit-template) - Lucia for authentication, Paraglide JS dead simple i18n, Drizzle ORM for database connectivity and type safety, shadcn-svelte for beautifully designed components, Lucide for icons, Zod Type safety with Zod integration, Superforms to handle form validation and management. Formsnap Accessible form components that take SvelteKit Superforms to the next level.
