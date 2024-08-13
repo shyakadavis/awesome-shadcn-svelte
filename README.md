@@ -9,6 +9,7 @@ A curated list of awesome things related to <a href='https://shadcn-svelte.com/'
 - [Geist](https://github.com/shyakadavis/geist) - Svelte implementation of the Geist Design System by Vercel.
 - [shadcn-svelte-blocks](https://shadcn-svelte.com/blocks) - Building Blocks for the Web. Beautifully designed. Copy and paste into your apps. Open source.
 - [TZEZAR's TABLE](https://github.com/tzezar/table) - Table component made in svelte
+- [shadcn-phone-input-svelte](https://github.com/ieedan/shadcn-phone-input-svelte) - A Svelte port of shadcn-phone-input. 
 
 ## Apps
 
