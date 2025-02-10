@@ -8,6 +8,7 @@ A curated list of awesome things related to <a href='https://shadcn-svelte.com/'
 
 - [Geist](https://github.com/shyakadavis/geist) - Svelte implementation of the Geist Design System by Vercel.
 - [shadcn-svelte-blocks](https://shadcn-svelte.com/blocks) - Building Blocks for the Web. Beautifully designed. Copy and paste into your apps. Open source.
+- [ShadEditor](https://github.com/Tsuzat/ShadEditor/) - Highly extensible text editor for svelte made with TipTap and ShadCN UI
 - [TZEZAR's TABLE](https://github.com/tzezar/table) - Table component made in svelte
 
 ## Apps
