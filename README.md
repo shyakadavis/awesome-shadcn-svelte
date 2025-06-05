@@ -1,30 +1,44 @@
+<p align="center">
+  <br>
+  <img width="400" src="./assets/logo.svg" alt="logo of awesome-shadcn-svelte repository">
+  <br>
+  <br>
+</p>
+
 <h2 align='center'>awesome-shadcn-svelte</h2>
 
 <p align='center'>
-A curated list of awesome things related to <a href='https://shadcn-svelte.com/'>shadcn-svelte</a>
+A curated list of awesome things related to <a href='https://shadcn-svelte.com/' target="_blank">shadcn-svelte</a>
 <br><br>
 
 ## Libs and Components
 
-- [Geist](https://github.com/shyakadavis/geist) - Svelte implementation of the Geist Design System by Vercel.
-- [shadcn-svelte-blocks](https://shadcn-svelte.com/blocks) - Building Blocks for the Web. Beautifully designed. Copy and paste into your apps. Open source.
-- [shadcn-svelte-extras](https://github.com/ieedan/shadcn-svelte-extras) enhances existing components and adds new ones to shadcn-svelte, including specialized inputs like [Phone Input](https://www.shadcn-svelte-extras.com/components/phone-input) and [IPv4Address Input](https://www.shadcn-svelte-extras.com/components/ipv4address-input).
-- [Svelte Image Uploader](https://svelte-image-uploader.vercel.app/) - Svelte image uploader with dnd, validation and previews
-- [Edra](https://github.com/Tsuzat/Edra/) - Highly extensible text editor for svelte made with TipTap and ShadCN UI
-- [TZEZAR's TABLE](https://github.com/tzezar/table) - Table component made in svelte
+| Name                    | Description                                                                                    | Link                                                   |
+| ----------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| `Edra`                  | Highly extensible text editor for svelte made with TipTap and ShadCN UI                        | [Link](https://github.com/Tsuzat/Edra/)                |
+| `Geist`                 | Svelte implementation of Vercel's Design System                                                | [Link](https://github.com/shyakadavis/geist)           |
+| `shadcn-svelte-blocks`  | Building Blocks for the Web. Beautifully designed. Copy and paste into your apps. Open source. | [Link](https://shadcn-svelte.com/blocks)               |
+| `shadcn-svelte-extras`  | Turn key shadcn-svelte components to help finish your app.                                     | [Link](https://github.com/ieedan/shadcn-svelte-extras) |
+| `Svelte Image Uploader` | Svelte image uploader with dnd, validation and previews                                        | [Link](https://svelte-image-uploader.vercel.app/)      |
 
 ## Apps
 
 ### Plugins and Extensions
 
-- [intellij-shadcn-plugin](https://plugins.jetbrains.com/plugin/23479-shadcn-ui-components-manager) - Add, update and delete your shadcn/ui components without leaving your IDE
-- [vscode-shadcn-svelte](https://marketplace.visualstudio.com/items?itemName=Selemondev.vscode-shadcn-svelte&ssr=false#overview) - Shadcn Svelte VSCode extension to help you install and use components directly without leaving your IDE ✨.
+| Name                     | Description                                                                | Link                                                                                        |
+| ------------------------ | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| `intellij-shadcn-plugin` | Add, update and delete your shadcn/ui components without leaving your IDE  | [Link](https://plugins.jetbrains.com/plugin/23479-shadcn-ui-components-manager)             |
+| `vscode-shadcn-svelte`   | VSCode extension to install and use components directly from the editor ✨ | [Link](https://marketplace.visualstudio.com/items?itemName=Selemondev.vscode-shadcn-svelte) |
 
 ### Platforms
 
-- [svelte-changelog](https://github.com/WarningImHack3r/svelte-changelog) - A nice UI to stay up-to-date with Svelte releases
+| Name               | Description                                       | Link                                                        |
+| ------------------ | ------------------------------------------------- | ----------------------------------------------------------- |
+| `svelte-changelog` | A nice UI to stay up-to-date with Svelte releases | [Link](https://github.com/WarningImHack3r/svelte-changelog) |
 
 ## Boilerplates / Templates
 
-- [sveltekit-auth](https://github.com/delay/sveltekit-auth) - This is a Sveltekit Auth project. It utilizes Lucia for authentication, shadcn-svelte for ui elements, Drizzle for database connectivity and type safety, Lucide for icons, Zod and Superforms to handle forms and validation and Sveltekit.
-- [SvelteKit Template](https://github.com/ak4zh/sveltekit-template) - Lucia for authentication, Paraglide JS dead simple i18n, Drizzle ORM for database connectivity and type safety, shadcn-svelte for beautifully designed components, Lucide for icons, Zod Type safety with Zod integration, Superforms to handle form validation and management. Formsnap Accessible form components that take SvelteKit Superforms to the next level.
+| Name                 | Description                                                                                                                                                                                          | Link                                                |
+| -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| `sveltekit-auth`     | SvelteKit Auth using Lucia for auth, shadcn-svelte for UI, Drizzle for DB, Lucide for icons, Zod & Superforms for forms.                                                                             | [Link](https://github.com/delay/sveltekit-auth)     |
+| `SvelteKit Template` | Lucia auth, Paraglide JS for i18n, Drizzle ORM, shadcn-svelte components, Lucide icons, Zod validation, Superforms, and Formsnap for accessible forms integrated into a clean SvelteKit boilerplate. | [Link](https://github.com/ak4zh/sveltekit-template) |
