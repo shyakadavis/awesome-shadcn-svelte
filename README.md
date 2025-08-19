@@ -15,11 +15,12 @@ A curated list of awesome things related to <a href='https://shadcn-svelte.com/'
 
 | Name                    | Description                                                                                    | Link                                                   |
 | ----------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
-| `Edra`                  | Highly extensible text editor for svelte made with TipTap and ShadCN UI                        | [Link](https://github.com/Tsuzat/Edra/)                |
+| `Edra`                  | Highly extensible text editor for svelte made with TipTap and ShadCN UI                        | [Link](https://github.com/Tsuzat/Edra)                |
 | `Geist`                 | Svelte implementation of Vercel's Design System                                                | [Link](https://github.com/shyakadavis/geist)           |
 | `shadcn-svelte-blocks`  | Building Blocks for the Web. Beautifully designed. Copy and paste into your apps. Open source. | [Link](https://shadcn-svelte.com/blocks)               |
 | `shadcn-svelte-extras`  | Turn key shadcn-svelte components to help finish your app.                                     | [Link](https://github.com/ieedan/shadcn-svelte-extras) |
-| `Svelte Image Uploader` | Svelte image uploader with dnd, validation and previews                                        | [Link](https://svelte-image-uploader.vercel.app/)      |
+| `Svelte Image Uploader` | Svelte image uploader with dnd, validation and previews                                        | [Link](https://svelte-image-uploader.vercel.app)      |
+| `cnblocks`              |100+ UI & Marketing blocks using Svelte 5, Tailwind CSS v4 and Shadcn Svelte                     | [Link](https://sv-blocks.vercel.app)
 
 ## Apps
 
