@@ -18,12 +18,12 @@ A curated list of awesome things related to <a href='https://shadcn-svelte.com/'
 | `cnblocks`              | 100+ UI & Marketing blocks using Svelte 5, Tailwind CSS v4 and Shadcn Svelte                   | [Link](https://sv-blocks.vercel.app)                        |
 | `Edra`                  | Highly extensible text editor for svelte made with TipTap and ShadCN UI                        | [Link](https://github.com/Tsuzat/Edra)                      |
 | `Geist`                 | Svelte implementation of Vercel's Design System                                                | [Link](https://github.com/shyakadavis/geist)                |
+| `Origin UI - Svelte`    | A collection of copy-and-paste components for quickly build application UIs.                   | [Link](https://github.com/max-got/originui-svelte)          |
 | `retroui-svelte`        | A retro-styled UI component library for Svelte applications.                                   | [Link](https://github.com/Mhamad6000/retroui-svelte)        |
 | `shadcn-svelte-blocks`  | Building Blocks for the Web. Beautifully designed. Copy and paste into your apps. Open source. | [Link](https://shadcn-svelte.com/blocks)                    |
 | `shadcn-svelte-extras`  | Turn key shadcn-svelte components to help finish your app.                                     | [Link](https://github.com/ieedan/shadcn-svelte-extras)      |
 | `shadcn/studio-svelte`  | shadcn/studio, but for Svelte. ✨                                                              | [Link](https://github.com/EpicAlbin03/shadcn-studio-svelte) |
 | `Svelte Image Uploader` | Svelte image uploader with dnd, validation and previews                                        | [Link](https://svelte-image-uploader.vercel.app)            |
-| `originui-svelte`       | A collection of copy-and-paste components for quickly build application UIs.                   | [Link](https://originui-svelte.pages.dev/)                        |
 
 ## Apps
 
