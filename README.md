@@ -24,6 +24,7 @@ A curated list of awesome things related to <a href='https://shadcn-svelte.com/'
 | `shadcn-svelte-extras`  | Turn key shadcn-svelte components to help finish your app.                                     | [Link](https://github.com/ieedan/shadcn-svelte-extras)      |
 | `shadcn/studio-svelte`  | shadcn/studio, but for Svelte. ✨                                                              | [Link](https://github.com/EpicAlbin03/shadcn-studio-svelte) |
 | `Svelte Image Uploader` | Svelte image uploader with dnd, validation and previews                                        | [Link](https://svelte-image-uploader.vercel.app)            |
+| `svelte-tablecn`        | A powerful, feature-rich data grid component for Svelte 5.                                     | [Link](https://github.com/itisyb/svelte-tablecn)            |
 
 ## Apps
 
