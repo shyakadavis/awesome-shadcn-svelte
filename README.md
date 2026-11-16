@@ -22,6 +22,7 @@ A curated list of awesome things related to <a href='https://shadcn-svelte.com/'
 | `retroui-svelte`        | A retro-styled UI component library for Svelte applications.                                   | [Link](https://github.com/Mhamad6000/retroui-svelte)        |
 | `shadcn-svelte-blocks`  | Building Blocks for the Web. Beautifully designed. Copy and paste into your apps. Open source. | [Link](https://shadcn-svelte.com/blocks)                    |
 | `shadcn-svelte-extras`  | Turn key shadcn-svelte components to help finish your app.                                     | [Link](https://github.com/ieedan/shadcn-svelte-extras)      |
+| `shadcn-svelte-map`     | Map components on MapLibre GL: markers, routes, clusters, heatmaps, drawing and place search   | [Link](https://shadcn-svelte-map.vercel.app)                |
 | `shadcn/studio-svelte`  | shadcn/studio, but for Svelte. ✨                                                              | [Link](https://github.com/EpicAlbin03/shadcn-studio-svelte) |
 | `Svelte Image Uploader` | Svelte image uploader with dnd, validation and previews                                        | [Link](https://svelte-image-uploader.vercel.app)            |
 | `svelte-tablecn`        | A powerful, feature-rich data grid component for Svelte 5.                                     | [Link](https://github.com/itisyb/svelte-tablecn)            |
